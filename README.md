@@ -61,7 +61,6 @@ Get the source code on your local machine.
 git clone https://github.com/PabloG55/immich_sync_assistant
 cd immich_sync_assistant
 ```
-*(Remember to replace `your-username` and `your-repo-name`)*
 
 #### Step 2: Install Dependencies
 
