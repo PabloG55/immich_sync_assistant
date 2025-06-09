@@ -58,7 +58,7 @@ Before you begin, ensure you have the following setup:
 Get the source code on your local machine.
 
 ```bash
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+git clone https://github.com/PabloG55/immich_sync_assistant
 cd your-repo-name
 ```
 *(Remember to replace `your-username` and `your-repo-name`)*
